@@ -1,3 +1,4 @@
+import './App.css';
 import { useState } from 'react';
 import questions from '../public/question.json';
 const App = () => {
